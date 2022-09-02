@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Paul Leiby"
 date: "2022-09-02"
 categories: [news, code, analysis]
 image: "image.jpg"

@@ -1,11 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-08-30"
+title: "Welcome To My New Mobility Blog"
+author: "Paul Leiby"
+date: "2022-09-02"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in the blog. Welcome!
 
 ![](thumbnail.jpg)
 
